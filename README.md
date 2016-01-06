@@ -1,4 +1,4 @@
-# REST
+# Sinatra REST
 
 Now that we've had a break, we'll take a REST! (*Pause for effect.*)
 
